@@ -1,0 +1,27 @@
+img{
+  width:100% !important;
+  height:100% !important;
+}
+.active, .panel:hover {
+  border-style: solid;
+  
+}
+.vizualization {
+  width:50% !important;
+  height:50% !important;
+}
+
+
+/* Box */
+.box {
+  margin-top: 50px;
+  margin-bottom: 60px;
+  padding: 10px 30px 10px;
+  background-color: white;
+
+}
+/* Table */
+.table {
+  font-size: 15px;
+  border-top-color: white !important;
+}
